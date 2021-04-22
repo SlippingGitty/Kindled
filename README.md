@@ -2,7 +2,7 @@
 
 ***THIS IS VERY WORK AND PROGRESS AND BROKEN. PLEASE DONT USE UNLESS YOU WANT TO CONTRIBUTE.***
 
-# ![img](https://files.catbox.moe/6hrxl0.png)
+# ![img](https://files.catbox.moe/94yzty.png)
 
 * The Screenshot above is very shotty, but is not representive of the final goal. Its merely a general idea.
 
