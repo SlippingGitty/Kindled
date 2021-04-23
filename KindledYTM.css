@@ -89,6 +89,13 @@ tp-yt-iron-icon.tp-yt-paper-icon-button {
     color: #000;
 }
 
+ytmusic-data-bound-header-renderer  {
+    backdrop-filter: blur(2px);
+    border-radius: 4px;
+    box-shadow: 5px 5px 10px 4px #07000054;
+}
+
+
 /* Text */
 .song-title.ytmusic-player-queue-item {
     color: black;
@@ -198,9 +205,12 @@ html:not(.style-scope)[dark]:not(.style-scope)[dark] {
 }
 
 a.ytmusic-content-update-chip {
-    background: #f00;
+    background: #ff000080;
+    backdrop-filter: blur(10px);
     color: #fff;
     --yt-endpoint-hover-color: #fff;
+    border-radius: 4px;
+    box-shadow: 1px 1px 10px 1px #07000021;
 }
 
 ytmusic-pivot-bar-item-renderer {
@@ -269,7 +279,7 @@ ytmusic-navigation-button-renderer[button-style=STYLE_ICON] button.ytmusic-navig
 #items.ytmusic-grid-renderer > *.ytmusic-grid-renderer {
     background-color: #9f9fa282;
     box-shadow: 1px 1px 10px 1px #07000021;
-    backdrop-filter: blur(10px);
+    backdrop-filter: (10px);
     border-radius: 5px;
 }
 
